@@ -1,0 +1,6 @@
+{
+  "name": "Darsify - AI-Powered Educational Platform",
+  "description": "AI-powered interactive educational platform for teachers to transform lesson materials into interactive lectures, matching games, 3D visual models, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
